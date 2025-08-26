@@ -1,3 +1,5 @@
 name=susmitha
 course name=bsc cs
+college name=aditya
 one thing learned about GitHub: Learned how to create a GitHub account and how to upload a file in GitHub and learned how to commit the change to the file.
+
