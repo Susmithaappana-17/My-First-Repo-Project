@@ -1,0 +1,6 @@
+name=susmitha
+course name= Bsc cs
+college name= Aditya degree college for women
+Suc code=2347390359
+Roll no=108
+email address=Adityakkd@gmail.com
